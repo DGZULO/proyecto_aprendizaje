@@ -56,7 +56,10 @@ v2=int(input("introducir segundo numero: "))
     
 division(v1,v2)
 
+
 ## Fase 5
 
 print("Esto es la polla")
+
+print("bienvenidos chicos a mi canal")
 
