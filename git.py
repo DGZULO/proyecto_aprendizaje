@@ -54,5 +54,5 @@ v1=int(input("introducir primer numero: "))
 
 v2=int(input("introducir segundo numero: "))
     
-divison(v1,v2)
+division(v1,v2)
 
