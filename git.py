@@ -43,3 +43,16 @@ multiplicación(v1,v2)
 
 ## Fase 4
 
+def division(n1,n2):
+    
+    resultado=n1/n2
+    
+    return resultado
+
+
+v1=int(input("introducir primer numero: "))
+
+v2=int(input("introducir segundo numero: "))
+    
+divison(v1,v2)
+
